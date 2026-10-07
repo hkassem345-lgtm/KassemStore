@@ -1,0 +1,6 @@
+{
+  "name": "Kassem Store | كاسِم ستور",
+  "description": "متجر كاسِم ستور للأدوات المنزلية وتجهيزات المطبخ ومستلزمات البيت - كتالوغ إلكتروني شامل وطلب سريع عبر واتساب",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
